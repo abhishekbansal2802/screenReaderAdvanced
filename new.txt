@@ -1,0 +1,3 @@
+git clone https://github.com/TaylorSMarks/playsound.git
+cd playsound
+python setup.py install
